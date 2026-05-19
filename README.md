@@ -250,7 +250,7 @@ MIT License
 
 ## 📞 Support
 
-- 📧 Email: [Your Email]
+- 📧 Email: anuj1230567@gmail.com
 - 💬 Issues: [GitHub Issues](https://github.com/Anuj230977/qr-code-generator/issues)
 
 ---
